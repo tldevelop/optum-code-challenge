@@ -1,0 +1,10 @@
+asyncpg
+chainlit
+langchain
+langchain-community
+langchain-openai
+langgraph
+openai
+psycopg2-binary
+sqlalchemy
+supabase

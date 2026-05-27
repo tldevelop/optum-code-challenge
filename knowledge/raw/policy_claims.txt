@@ -1,0 +1,11 @@
+Claim Processing Policy
+
+Approval:
+- Valid diagnosis
+- Cost within limits
+- Approved provider
+
+Denied if:
+- Cost too high
+- Invalid diagnosis
+- Provider issues

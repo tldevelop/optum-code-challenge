@@ -1,0 +1,6 @@
+claim_id,patient_id,drug_name,procedure_code,provider,date,quantity,diagnosis_code,cost,plan_paid_amount,patient_paid_amount,claim_status
+C001,P001,Metformin,PROC1002,Provider_B,2025-01-10,30,E11.9,35.0,28.0,7.0,Approved
+C002,P002,Atorvastatin,PROC1001,Provider_A,2025-01-15,30,E78.5,50.0,40.0,10.0,Approved
+C003,P003,Ozempic,PROC2001,Provider_A,2025-01-18,1,E11.65,950.0,850.0,100.0,Approved
+C016,P016,Ozempic,PROC2001,Provider_X,2025-03-20,1,E11.65,2500.0,2000.0,500.0,Pending
+C021,P021,Ozempic,PROC2001,Provider_X,2025-04-12,1,E11.65,1800.0,1500.0,300.0,Denied

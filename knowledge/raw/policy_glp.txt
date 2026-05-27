@@ -1,0 +1,12 @@
+GLP-1 Drug Coverage Policy
+
+Eligibility:
+- Type 2 Diabetes (E11.x) OR Obesity (E66.x)
+
+Cost Rules:
+- Typical range: $800–$1500
+- Above range requires justification
+
+Denial:
+- High cost without justification
+- Missing diagnosis
