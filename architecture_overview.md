@@ -66,8 +66,7 @@ document specific chunking), chunking overlap, rerank techniques for results, hy
 if needed (also apply the same principles into the policies tool)
 - Add a function to keep the claims data updated in the DB and avoid duplicates so the data keeps up to date automatically if there not will be a direct process or integration
 that will be updating it
-- Improve query generation and add guardrails to the tool that query claims data, think of fixed most used queries and make tools for each type could be a solution to have
-more security over the queries executed, also having some validation layers such as the use of a guardrail API or solution such as OpenAI moderation API, human in the loop for query approval and review
+- Limit the connection/user of the policies tool to only allow the execution of retrieval queries and not execute delete or insert and other safety solutions
 - Refine main agent system prompt for better handling ambiguity and other edge cases
 - Add memory so the agent can remember data in more complex or deeper conversations
 - Improve the front end by using a custom and more robust solution
