@@ -58,7 +58,7 @@ perfeclty defining the user role for the incoming message for having some securi
 
 *A little extra*
 Here you have a basic diagram of the architecture
-[Architecture Diagram]()
+[Architecture Diagram](https://miro.com/app/board/uXjVHNW6-9E=/?share_link_id=479154982330)
 
 ## Limitations, improvements and next steps
 - Improve data processing layer to support bigger text documents, implement chunking based in the document needs (fixed, sentence, recursive for paragraphs and related,
